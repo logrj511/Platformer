@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "platformer",
-    "path": "platformer.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
