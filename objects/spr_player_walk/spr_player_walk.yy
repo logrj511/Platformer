@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlayer",
+  "name": "spr_player_walk",
   "spriteId": {
-    "name": "Splayer",
-    "path": "sprites/Splayer/Splayer.yy",
+    "name": "spr_player_jump",
+    "path": "sprites/spr_player_jump/spr_player_jump.yy",
   },
   "solid": false,
   "visible": true,
